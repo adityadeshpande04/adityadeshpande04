@@ -21,6 +21,7 @@
 <h3>
   About me:
 </h3>
+  <li> Portfolio link: <a>https://portfolio-omega-three-75.vercel.app/</a> </li>
   <li> I love to learn new things about tech. </li>
   <li> In my free time i like solving puzzles and ctf </li>
   <li> How to reach me: <a href="https://www.linkedin.com/in/aditya-deshpande-252504225/">
